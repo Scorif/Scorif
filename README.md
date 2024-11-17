@@ -20,3 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding, creating innovative s
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorif&theme=dracula" alt="Top Languages" />
 </div>
+
+### 📫 How to reach me:
+- Email: scorif@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- Twitter: [@scorif](https://twitter.com/your-profile)
