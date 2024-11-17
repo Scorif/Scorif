@@ -1,5 +1,4 @@
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <h1 align="center"> Hi there! 👋 I'm Scorif</h1>
 
@@ -44,7 +43,8 @@ Welcome to my GitHub profile! I'm passionate about coding, creating innovative s
   
   <!-- Game Development -->
   
-  <i class="devicon-unrealengine-original"  alt="UnrealEngine" width="40" height="40"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" style="background-color: white; border-radius: 50%; padding: 5px;" width="40" height="40"/>
+
           
  
   <!-- Databases -->
