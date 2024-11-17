@@ -1,6 +1,17 @@
-## Hi there 👋
 
-<!-- You can customize your introduction here -->
+# Hi there! 👋 I'm Scorif
+
+Welcome to my GitHub profile! I'm passionate about coding, creating innovative solutions, and learning new technologies. Whether it's game development, web apps, or tinkering with new ideas, I'm always up for a challenge!
+
+## 🔭 What I'm currently working on:
+- 🎮 Developing a video game with a detailed skill system and custom mechanics.
+- 💡 Designing engaging game mechanics and balancing systems for an upcoming project.
+- 🌐 Building web applications that focus on user experience and interactivity.
+
+## 🌱 What I'm currently learning:
+- ⚙️ Improving my understanding of game design and systems architecture.
+- 📱 Exploring cross-platform app development using React Native and Flutter.
+- 🎨 Enhancing my skills in UX/UI design and prototyping.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scorif&show_icons=true&theme=dracula&hide=username" alt="Scorif's GitHub stats" />
