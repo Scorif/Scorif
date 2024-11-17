@@ -1,5 +1,5 @@
 
-<p align="center"># Hi there! 👋 I'm Scorif</p>
+<h1 align="center"> Hi there! 👋 I'm Scorif</h1>
 
 Welcome to my GitHub profile! I'm passionate about coding, creating innovative solutions, and learning new technologies. Whether it's game development, web apps, or tinkering with new ideas, I'm always up for a challenge!
 
