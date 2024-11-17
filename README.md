@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating innovative s
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="JavaScript" width="40" height="40"/>
   
   <!-- Frameworks & Libraries -->
 
