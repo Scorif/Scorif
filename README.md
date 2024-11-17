@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Scorif's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorif&show_icons=true&theme=dracula&hide=username)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorif&theme=dracula)](https://github.com/scorif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorif&theme=dracula)](https://github.com/scorif/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=scorif&theme=dracula)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scorif&theme=dracula)](https://git.io/streak-stats)
+
