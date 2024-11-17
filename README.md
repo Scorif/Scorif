@@ -1,21 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Scorif/Scorif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- You can customize your introduction here -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Scorif's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorif&show_icons=true&theme=dracula&hide=username)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorif&theme=dracula)](https://github.com/scorif/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=scorif&theme=dracula)](https://git.io/streak-stats)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scorif&show_icons=true&theme=dracula&hide=username" alt="Scorif's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorif&theme=dracula" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=scorif&theme=dracula" alt="GitHub Streak" />
+</div>
