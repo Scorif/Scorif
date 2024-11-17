@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Scorif's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorif&show_icons=true&theme=ambient_gradient&hide=username)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorif)](https://github.com/scorif/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scorif&theme=dark)](https://git.io/streak-stats)
