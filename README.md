@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Scorif
+<p align="center"># Hi there! 👋 I'm Scorif</p>
 
 Welcome to my GitHub profile! I'm passionate about coding, creating innovative solutions, and learning new technologies. Whether it's game development, web apps, or tinkering with new ideas, I'm always up for a challenge!
 
@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating innovative s
 
 <p align="left">
   <!-- Languages -->
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="JavaScript" width="40" height="40"/>
