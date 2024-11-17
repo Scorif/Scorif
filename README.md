@@ -42,10 +42,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating innovative s
 
   
   <!-- Game Development -->
-  
-  <div style="background-color: white; border-radius: 10px; padding: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
 
           
  
